@@ -1,4 +1,4 @@
-Riku Lauttia
+#Riku Lauttia
 
 Fullstack Developer | AI/ML Enthusiast | Aspiring Technical Sales Professional
   
