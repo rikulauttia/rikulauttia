@@ -1,4 +1,4 @@
-# Hi, I’m Riku Lauttia 👋
+# Hi, I’m Riku Lauttia
 
 - 💻 Fullstack Developer | AI/ML Enthusiast | Aspiring Technical Sales Professional
 - 📚 I'm currently working on: Fullstack development, AI/ML projects and blockchain technology
