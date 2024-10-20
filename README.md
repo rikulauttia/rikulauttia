@@ -1,6 +1,6 @@
 # Riku Lauttia
 
-**Fullstack Developer** | **AI/ML Enthusiast** | **Aspiring Technical Sales Professional**
+**Entrepreneur** | **Fullstack Developer** | **AI/ML Enthusiast**
 
 I'm currently working on Fullstack development, AI/ML projects and blockchain technology.
 
