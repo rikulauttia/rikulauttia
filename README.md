@@ -1,9 +1,9 @@
-<h1 align="center">Riku Lauttia</h1>
+# Riku Lauttia
 
-<p align="center">
-  Full Stack Engineer | AI Developer | Blockchain Enthusiast
-</p>
+**Building intelligence with code.**  
+Learning machines, scaling systems, shaping the future.
 
-<p align="center">
-  <a href="https://rikulauttia.com">rikulauttia.com</a>
-</p>
+---
+
+> "The real work is invisible."  
+> — Riku
