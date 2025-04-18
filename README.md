@@ -7,3 +7,5 @@ Full Stack • AI/ML • Blockchain
 ---
 
 > "The real work is invisible."
+
+<!-- SEO Keywords: Riku Lauttia, Turun Yliopisto, MSc Student, University of Turku, UTU, Full Stack Developer, AI Engineer, Software Engineer, Blockchain Developer -->
