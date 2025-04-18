@@ -1,8 +1,9 @@
 # Riku Lauttia
 
 **Building intelligence with code.**  
-Learning machines, scaling systems, shaping the future.
+M.Sc. student in Information Technology @ University of Turku.  
+Full Stack • AI/ML • Blockchain
 
 ---
 
-> "The real work is invisible."  
+> "The real work is invisible."
