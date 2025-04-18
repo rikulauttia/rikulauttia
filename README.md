@@ -1,7 +1,7 @@
 # Riku Lauttia
 
 **Building intelligence with code.**  
-M.Sc. student in Information Technology @ University of Turku
+M.Sc. student in Information Technology @ University of Turku  
 Full Stack • AI/ML • Blockchain
 
 ---
