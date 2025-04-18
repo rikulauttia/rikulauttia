@@ -6,4 +6,3 @@ Learning machines, scaling systems, shaping the future.
 ---
 
 > "The real work is invisible."  
-> — Riku
