@@ -6,7 +6,7 @@
 
 Building systems that scale and revenue that grows.
 
-M.Sc. IT • University of Turku
+M.Sc. ICT • University of Turku
 
 ---
 
