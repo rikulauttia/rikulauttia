@@ -2,19 +2,17 @@
 
 # Riku Lauttia
 
-**Building intelligence with code.**  
-M.Sc. student in Information Technology @ University of Turku (Turun Yliopisto)  
-Full Stack Developer • AI/ML Engineer • Blockchain Enthusiast
+**AI Engineer with Commercial Intelligence.**
 
-Co-Founder | Future Software Engineer | AI for Impact & Innovation
+Building systems that scale and revenue that grows.
 
-**Connect with me:**  
-- [Website](https://rikulauttia.com)  
-- [GitHub](https://github.com/rikulauttia)  
-- [Twitter](https://twitter.com/rikulauttia)  
-- [Instagram](https://instagram.com/rikulauttia)  
-- [LinkedIn](https://linkedin.com/in/rikulauttia)
+M.Sc. IT • University of Turku
 
 ---
 
-> *"The real work is invisible."* 
+**Connect**  
+[rikulauttia.com](https://rikulauttia.com) • [linkedin.com/in/rikulauttia](https://linkedin.com/in/rikulauttia)
+
+---
+
+> *"The real work is invisible."*
